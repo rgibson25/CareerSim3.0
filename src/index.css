@@ -1,13 +1,15 @@
 body {
   font-family: Georgia, serif;
-  background-color: #f8f8f8;
+  background-color: #8a53be;
   margin: 0;
   padding: 0;
+  text-align: center;
 }
 
 #logo-image {
   width: 30px;
   margin-right: 10px;
 }
+
 
 /* Add your own custom styles here */
